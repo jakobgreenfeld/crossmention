@@ -1,0 +1,11 @@
+{
+  "source": "https://crossmention.com/pricing",
+  "rating": "Ahrefs Domain Rating",
+  "tiers": [
+    {"dr_min": 0, "dr_max": 19, "credits": 1},
+    {"dr_min": 20, "dr_max": 39, "credits": 2},
+    {"dr_min": 40, "dr_max": 59, "credits": 4},
+    {"dr_min": 60, "dr_max": 79, "credits": 8},
+    {"dr_min": 80, "dr_max": 100, "credits": 15}
+  ]
+}
